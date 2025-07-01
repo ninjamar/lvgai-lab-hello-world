@@ -1,6 +1,6 @@
-def main():
-    print("Hello from lab-hello-world!")
 
 
-if __name__ == "__main__":
-    main()
+print("Welcome to AI Applications")
+
+name = input("Please enter your name: ")
+print("Hello", name, "Nice to meet you")
